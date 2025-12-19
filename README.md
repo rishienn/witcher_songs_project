@@ -11,6 +11,7 @@
 6. witcher_songs_project/main.py - файл с кодом, выполняющим все функции и оформляющим их
 7. witcher_songs_project/file_utils.py - файл с кодом, работающим с открытием и созданием папок или csv- и txt-файлов
 
+я дура
 # how_to_run
 ```bash
 python main.py
